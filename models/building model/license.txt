@@ -1,0 +1,8 @@
+Model Information:
+* title:	New York Background Building 3#
+* source:	https://sketchfab.com/3d-models/new-york-background-building-3-ab9839807c734679917e1ad7d6d69858
+* author:	carlcapu9 (https://sketchfab.com/carlcapu9)
+
+Model License:
+* license type:	SKETCHFAB Editorial (https://sketchfab.com/licenses)
+* requirements:	Use only in connection with events that are newsworthy or of public interest
